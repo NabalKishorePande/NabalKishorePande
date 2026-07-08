@@ -1,10 +1,12 @@
 # Er. Nabal Kishore Pande
 
-> **Independent Researcher • Author • Knowledge Infrastructure Builder**
+> **Independent Researcher • Author • Decision Systems Architect • Knowledge Infrastructure Builder**
 
-I design evidence-based decision systems that help people make better choices in complex environments.
+I am an independent researcher and author working at the intersection of decision systems, research methodology, higher education, and human–AI collaboration.
 
-My work focuses on transforming research into practical frameworks, technical systems, and interconnected knowledge assets that improve decision quality across higher education, scholarship intelligence, and human-AI collaboration.
+My work focuses on transforming research into interconnected knowledge assets that improve decision quality under conditions of complexity and information overload.
+
+Rather than producing isolated publications, I develop long-term research frameworks, technical infrastructure, and practical execution systems that evolve through evidence, versioning, and continuous refinement.
 
 ---
 
@@ -12,63 +14,109 @@ My work focuses on transforming research into practical frameworks, technical sy
 
 ## Scholarship Intelligence Infrastructure™
 
-An evidence-based knowledge infrastructure for planning, evaluating, selecting, preparing, and executing fully funded Master's opportunities.
+An evidence-based knowledge infrastructure for improving how students discover, evaluate, prepare for, and execute fully funded Master's opportunities.
 
-Rather than publishing isolated content, this initiative develops interconnected research, technical documentation, AI workflows, datasets, and execution systems that continuously increase Knowledge Capital.
+The infrastructure integrates research, technical documentation, AI-assisted workflows, decision frameworks, datasets, and execution systems into a continuously evolving ecosystem.
+
+The objective is simple:
+
+> **Build knowledge assets that compound in value over time.**
 
 ---
 
-# Research Interests
+# Research Areas
 
 - Decision Systems
 - Opportunity Intelligence
+- Execution Intelligence
+- Knowledge Infrastructure
+- Research Methodology
+- Systems Thinking
+- Human–AI Collaboration
+- Higher Education
+- Information Overload
+
+---
+
+# Research Contributions
+
+My research has led to the development of several original frameworks and decision systems, including:
+
+- Opportunity Intelligence Framework™
+- Executive Decision Defense Playbook™
+- Opportunity Debt
+- Funding Command Centre
+- Fit Matrix
+- Research Production System™
+- NeuroGenesis Framework
+- The Academic Word Engine
+- The ASA System
+
+These frameworks explore evidence-based decision-making, execution intelligence, educational opportunity selection, research production, and AI-assisted knowledge systems.
+
+---
+
+# Publications & Research
+
+My work includes ISBN-registered books, research papers, professional monographs, and open science projects.
+
+Current research focuses on:
+
+- Decision Systems
+- Scholarship Intelligence
+- AI-Accelerated Learning
+- Research Methodology
 - Knowledge Infrastructure
 - Higher Education
 - Human–AI Collaboration
-- Research Methodology
-- Information Overload
-- Systems Thinking
-- Execution Intelligence
 
 ---
 
-# Featured Infrastructure
+# Open Research
 
-### Scholarship Intelligence Infrastructure™
-
-Technical repository for architecture, documentation, workflows, templates, and governance.
-
-➡️ https://github.com/NabalKishorePande/scholarship-intelligence-infrastructure
-
----
-
-# Public Knowledge Layer
-
-Funded Abroad India
-
-https://fundedabroadindia.blogspot.com/
-
-Long-form articles, decision frameworks, scholarship strategy, and educational resources.
-
----
-
-# Research Identity
+I maintain an open research workflow through internationally recognised research platforms.
 
 ### ORCID
 
 https://orcid.org/0009-0007-3325-9966
 
----
-
 ### Zenodo
 
-Research archive under development.
+Research datasets and versioned publications.
+
+### Open Science Framework (OSF)
+
+Open research methodology and reproducible research projects.
+
+### Wikidata
+
+Research identity and knowledge graph integration.
 
 ---
 
-### Open Science Framework
+# Technical Infrastructure
 
-Research project under preparation.
+This GitHub profile supports the technical layer of my research ecosystem.
+
+Current repositories include:
+
+- Scholarship Intelligence Infrastructure™
+- Autonomous Science Research
+- AI Workforce Reorganization
+- AI Accelerated Learning
+- Memory Revolution
+
+Each repository contributes to a broader knowledge infrastructure rather than existing as an isolated project.
+
+---
+
+# Public Knowledge Layer
+
+## Funded Abroad India
+
+https://fundedabroadindia.blogspot.com/
+
+The primary public knowledge hub for long-form articles, educational resources, research summaries, and decision frameworks.
 
 ---
 
@@ -77,77 +125,56 @@ Research project under preparation.
 Current priorities include:
 
 - Scholarship Intelligence Infrastructure™
+- Global Scholarship Intelligence Database
 - Opportunity Intelligence Framework
 - Funding Command Centre
-- AI-assisted research workflows
+- AI-assisted Scholarship Workflows
 - Research Product Maps
-- Global scholarship intelligence datasets
-- Technical documentation standards
+- Knowledge Architecture
+- Research Infrastructure
 
 ---
 
-# Philosophy
+# Research Philosophy
 
 > I am not creating content.
 
 > I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™.
 
-Every publication, dataset, framework, workflow, and technical asset should strengthen everything that already exists.
-
----
-
-# Repository Highlights
-
-Current repositories include:
-
-- Scholarship Intelligence Infrastructure™
-- Autonomous Science Research
-- AI Accelerated Learning
-- AI Workforce Reorganization
-- Memory Revolution
-
-Additional repositories will gradually evolve into connected components of the broader knowledge infrastructure.
+Every publication, dataset, framework, repository, workflow, and technical asset should strengthen everything that already exists.
 
 ---
 
 # Connect
 
-## Public Knowledge
+### Public Knowledge
 
 https://fundedabroadindia.blogspot.com/
 
----
-
-## ORCID
+### ORCID
 
 https://orcid.org/0009-0007-3325-9966
 
----
+### GitHub
 
-## LinkedIn
+https://github.com/NabalKishorePande
 
-*(Coming Soon)*
+### LinkedIn
 
----
+https://www.linkedin.com/in/nabal-kishore-pande-05400b372/
 
-## Medium
+### Medium
 
-*(Coming Soon)*
+https://medium.com/@fundedabroadindia
 
----
+### X
 
-## Zenodo
+https://x.com/NabalKPande
 
-*(Coming Soon)*
+### Bluesky
 
----
-
-## Open Science Framework
-
-*(Coming Soon)*
+https://bsky.app/profile/nabalkishorepande.bsky.social
 
 ---
 
-## Guiding Principle
-
-> Build knowledge assets that outlive platforms.
+> **Building knowledge assets that outlive platforms.**
