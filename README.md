@@ -1,105 +1,58 @@
-# Er. Nabal Kishore Pande
+# 👋 Hi there, I'm Er. Nabal Kishore Pande
 
 > **Independent Researcher • Author • Decision Systems • Knowledge Infrastructure**
 
-I am an independent researcher and author working at the intersection of **decision systems, execution intelligence, higher education, research methodology, and human–AI collaboration**.
+Welcome to my GitHub profile! I am an independent researcher and author. My work sits right at the crossroads of **decision systems, execution intelligence, higher education, research methodology, and human–AI collaboration**.
 
-My work focuses on designing evidence-based frameworks and knowledge infrastructures that help individuals and institutions make better decisions under conditions of uncertainty, complexity, and information overload.
-
----
-
-# Current Initiative
-
-## Scholarship Intelligence Infrastructure™
-
-I am currently developing the **Scholarship Intelligence Infrastructure™**, an evidence-based knowledge infrastructure for improving how students discover, evaluate, prepare for, and execute fully funded Master's opportunities.
-
-Rather than publishing isolated guides, the project integrates research, technical documentation, AI workflows, datasets, and decision frameworks into a connected knowledge ecosystem.
+I focus on building practical, evidence-based frameworks. These tools help people and organizations make smarter choices, even when facing uncertainty, complex problems, or too much information.
 
 ---
 
-# Research Areas
+### 🚀 Current Initiative: Scholarship Intelligence Infrastructure™
 
-- Decision Systems
-- Opportunity Intelligence
-- Execution Intelligence
-- Knowledge Infrastructure
-- Research Methodology
-- Systems Thinking
-- Human–AI Collaboration
-- Higher Education
-- Scholarship Intelligence
+Currently, I am building the **Scholarship Intelligence Infrastructure™**. This is an evidence-based knowledge system designed to help students find, evaluate, prepare for, and win fully funded Master's scholarships.
+
+Instead of just writing disconnected guides, I am connecting research, technical documentation, AI workflows, datasets, and decision tools into one complete, working ecosystem.
 
 ---
 
-# Selected Research Frameworks
+### 🔬 Core Research Areas
 
-Current research includes:
-
-- Opportunity Intelligence Framework™
-- Opportunity Debt
-- Executive Decision Defense Playbook™
-- Funding Command Centre
-- Fit Matrix
-- Research Production System™
-- NeuroGenesis Framework
-- The Academic Word Engine
-- The ASA System
-- Execution Compression System (ECS)
+| Decision Systems | Opportunity Intelligence | Execution Intelligence |
+| :--- | :--- | :--- |
+| **Knowledge Infrastructure** | **Research Methodology** | **Systems Thinking** |
+| **Human–AI Collaboration** | **Higher Education** | **Scholarship Intelligence** |
 
 ---
 
-# Research Identity
+### 🧠 Selected Research Frameworks
 
-## ORCID
+Here are the key frameworks I am currently developing:
 
-**0009-0007-3325-9966**
-
----
-
-## Wikidata
-
-**Q137731110**
+`Opportunity Intelligence Framework™` • `Opportunity Debt` • `Executive Decision Defense Playbook™` • `Funding Command Centre` • `Fit Matrix` • `Research Production System™` • `NeuroGenesis Framework` • `The Academic Word Engine` • `The ASA System` • `Execution Compression System (ECS)`
 
 ---
 
-## WorldCat
+### 🆔 Research Identity & Open Science
 
-My published books are indexed through WorldCat and held in university libraries.
+I strongly believe in open science. My research follows a clear, version-controlled workflow using trusted scholarly identifiers.
 
----
-
-## University Library Holdings
-
-Selected publications are available through institutional libraries, including:
-
-- University of Marburg Library, Germany
-- University of Arts in Belgrade – Faculty of Music Library, Serbia
-
-These holdings contribute to the long-term discoverability and preservation of my published work. :contentReference[oaicite:1]{index=1}
+- **ORCID:** `0009-0007-3325-9966`
+- **Wikidata:** `Q137731110`
+- **Platforms:** Zenodo, Open Science Framework (OSF), GitHub, WorldCat
 
 ---
 
-# Open Research
+### 📚 University Library Holdings
 
-My research follows an open and versioned workflow built around persistent scholarly identifiers and repositories.
+My published books are officially indexed through WorldCat and sit on the shelves of global university libraries. This helps preserve my work and keeps it easy to discover.
 
-Current research infrastructure includes:
-
-- ORCID
-- Zenodo
-- Open Science Framework (OSF)
-- GitHub
-- Wikidata
-- WorldCat
-
-Additional repositories and archives will be integrated as the infrastructure evolves.
+- 🇩🇪 **University of Marburg Library**, Germany
+- 🇷🇸 **University of Arts in Belgrade – Faculty of Music Library**, Serbia
 
 ---
 
-# Selected Publications
-
-Selected published work includes:
+### 📖 Selected Publications
 
 - *DIY Home Improvement: Transform Your Space on a Budget*
 - *The Academic Word Engine*
@@ -110,103 +63,35 @@ Selected published work includes:
 
 ---
 
-# Public Knowledge Layer
+### 🌐 Public Knowledge Hub: Funded Abroad India
 
-## Funded Abroad India
+This is my public home on the web. You will find long-form educational articles, decision frameworks, scholarship strategies, and research-backed resources here.
 
-My public knowledge hub contains long-form educational articles, decision frameworks, scholarship strategy, and research-informed resources.
-
-**https://fundedabroadindia.blogspot.com/**
+🔗 **[Visit Funded Abroad India](https://fundedabroadindia.blogspot.com/)**
 
 ---
 
-# Technical Infrastructure
+### 💡 My Philosophy
 
-## Scholarship Intelligence Infrastructure™
-
-This GitHub organization documents the technical architecture supporting my research ecosystem, including:
-
-- Architecture specifications
-- Research Product Maps
-- Technical documentation
-- AI workflows
-- Templates
-- Governance standards
-- Version history
+> **"I am not creating content. I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™."**
+> 
+> Everything I create—whether it is a publication, a dataset, or a line of code—must add real value. The goal is to make the broader knowledge system stronger, more useful, and built to last.
 
 ---
 
-# Professional & Research Presence
+### 📫 Let's Connect
 
-### Research Identity
+Feel free to reach out or follow my work through these channels:
 
-- ORCID
-- Zenodo
-- Open Science Framework (OSF)
-- Wikidata
-- WorldCat
-
-### Technical Infrastructure
-
-- GitHub
-
-### Knowledge & Publications
-
-- Funded Abroad India
-- Medium
-- Leanpub
-- Gumroad
-
-### Academic & Professional Networks
-
-- LinkedIn
-- Academia.edu
-- SlideShare
-- Internet Archive
+| Platform | Link |
+| :--- | :--- |
+| **Public Knowledge Hub** | [Funded Abroad India](https://fundedabroadindia.blogspot.com/) |
+| **GitHub** | [NabalKishorePande](https://github.com/NabalKishorePande) |
+| **ORCID** | [0009-0007-3325-9966](https://orcid.org/0009-0007-3325-9966) |
+| **LinkedIn** | [nabal-kishore-pande](https://www.linkedin.com/in/nabal-kishore-pande-05400b372/) |
 
 ---
 
-# Philosophy
-
-> **I am not creating content. I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™.**
-
-Every publication, dataset, framework, workflow, repository, and technical asset should strengthen the integrity, usefulness, and continuity of the broader knowledge infrastructure.
-
----
-
-# Current Development Priorities (2026–2027)
-
-Current priorities include:
-
-- Scholarship Intelligence Infrastructure™
-- Global Scholarship Intelligence Database
-- Opportunity Intelligence Framework
-- AI-assisted research workflows
-- Research Product Maps
-- Knowledge architecture
-- Open research infrastructure
-- Technical documentation standards
-
----
-
-# Connect
-
-**Public Knowledge Hub**
-
-https://fundedabroadindia.blogspot.com/
-
-**GitHub**
-
-https://github.com/NabalKishorePande
-
-**ORCID**
-
-https://orcid.org/0009-0007-3325-9966
-
-**LinkedIn**
-
-https://www.linkedin.com/in/nabal-kishore-pande-05400b372/
-
----
-
-> **Building knowledge assets that outlive platforms.**
+<p align="center">
+  <b>Building knowledge assets that outlive platforms.</b> 🚀
+</p>
