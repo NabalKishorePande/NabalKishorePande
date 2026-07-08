@@ -1,12 +1,10 @@
 # Er. Nabal Kishore Pande
 
-> **Independent Researcher • Author • Decision Systems Architect • Knowledge Infrastructure Builder**
+> **Independent Researcher • Author • Decision Systems • Knowledge Infrastructure**
 
-I am an independent researcher and author working at the intersection of decision systems, research methodology, higher education, and human–AI collaboration.
+I am an independent researcher and author working at the intersection of **decision systems, execution intelligence, higher education, research methodology, and human–AI collaboration**.
 
-My work focuses on transforming research into interconnected knowledge assets that improve decision quality under conditions of complexity and information overload.
-
-Rather than producing isolated publications, I develop long-term research frameworks, technical infrastructure, and practical execution systems that evolve through evidence, versioning, and continuous refinement.
+My work focuses on designing evidence-based frameworks and knowledge infrastructures that help individuals and institutions make better decisions under conditions of uncertainty, complexity, and information overload.
 
 ---
 
@@ -14,13 +12,9 @@ Rather than producing isolated publications, I develop long-term research framew
 
 ## Scholarship Intelligence Infrastructure™
 
-An evidence-based knowledge infrastructure for improving how students discover, evaluate, prepare for, and execute fully funded Master's opportunities.
+I am currently developing the **Scholarship Intelligence Infrastructure™**, an evidence-based knowledge infrastructure for improving how students discover, evaluate, prepare for, and execute fully funded Master's opportunities.
 
-The infrastructure integrates research, technical documentation, AI-assisted workflows, decision frameworks, datasets, and execution systems into a continuously evolving ecosystem.
-
-The objective is simple:
-
-> **Build knowledge assets that compound in value over time.**
+Rather than publishing isolated guides, the project integrates research, technical documentation, AI workflows, datasets, and decision frameworks into a connected knowledge ecosystem.
 
 ---
 
@@ -34,79 +28,85 @@ The objective is simple:
 - Systems Thinking
 - Human–AI Collaboration
 - Higher Education
-- Information Overload
+- Scholarship Intelligence
 
 ---
 
-# Research Contributions
+# Selected Research Frameworks
 
-My research has led to the development of several original frameworks and decision systems, including:
+Current research includes:
 
 - Opportunity Intelligence Framework™
-- Executive Decision Defense Playbook™
 - Opportunity Debt
+- Executive Decision Defense Playbook™
 - Funding Command Centre
 - Fit Matrix
 - Research Production System™
 - NeuroGenesis Framework
 - The Academic Word Engine
 - The ASA System
-
-These frameworks explore evidence-based decision-making, execution intelligence, educational opportunity selection, research production, and AI-assisted knowledge systems.
+- Execution Compression System (ECS)
 
 ---
 
-# Publications & Research
+# Research Identity
 
-My work includes ISBN-registered books, research papers, professional monographs, and open science projects.
+## ORCID
 
-Current research focuses on:
+**0009-0007-3325-9966**
 
-- Decision Systems
-- Scholarship Intelligence
-- AI-Accelerated Learning
-- Research Methodology
-- Knowledge Infrastructure
-- Higher Education
-- Human–AI Collaboration
+---
+
+## Wikidata
+
+**Q137731110**
+
+---
+
+## WorldCat
+
+My published books are indexed through WorldCat and held in university libraries.
+
+---
+
+## University Library Holdings
+
+Selected publications are available through institutional libraries, including:
+
+- University of Marburg Library, Germany
+- University of Arts in Belgrade – Faculty of Music Library, Serbia
+
+These holdings contribute to the long-term discoverability and preservation of my published work. :contentReference[oaicite:1]{index=1}
 
 ---
 
 # Open Research
 
-I maintain an open research workflow through internationally recognised research platforms.
+My research follows an open and versioned workflow built around persistent scholarly identifiers and repositories.
 
-### ORCID
+Current research infrastructure includes:
 
-https://orcid.org/0009-0007-3325-9966
+- ORCID
+- Zenodo
+- Open Science Framework (OSF)
+- GitHub
+- Wikidata
+- WorldCat
 
-### Zenodo
-
-Research datasets and versioned publications.
-
-### Open Science Framework (OSF)
-
-Open research methodology and reproducible research projects.
-
-### Wikidata
-
-Research identity and knowledge graph integration.
+Additional repositories and archives will be integrated as the infrastructure evolves.
 
 ---
 
-# Technical Infrastructure
+# Selected Publications
 
-This GitHub profile supports the technical layer of my research ecosystem.
+Selected published work includes:
 
-Current repositories include:
-
-- Scholarship Intelligence Infrastructure™
-- Autonomous Science Research
-- AI Workforce Reorganization
-- AI Accelerated Learning
-- Memory Revolution
-
-Each repository contributes to a broader knowledge infrastructure rather than existing as an isolated project.
+- *DIY Home Improvement: Transform Your Space on a Budget*
+- *The Academic Word Engine*
+- *Opportunity Intelligence: A Five-Filter Framework for Educational Opportunity Selection Under Conditions of Information Overload*
+- *AI-Accelerated Learning Systems and the NeuroGenesis Framework*
+- *The Executive Decision Defense Playbook™*
+- *The ASA System*
 
 ---
 
@@ -114,66 +114,98 @@ Each repository contributes to a broader knowledge infrastructure rather than ex
 
 ## Funded Abroad India
 
-https://fundedabroadindia.blogspot.com/
+My public knowledge hub contains long-form educational articles, decision frameworks, scholarship strategy, and research-informed resources.
 
-The primary public knowledge hub for long-form articles, educational resources, research summaries, and decision frameworks.
+**https://fundedabroadindia.blogspot.com/**
 
 ---
 
-# Current Development Focus (2026–2027)
+# Technical Infrastructure
+
+## Scholarship Intelligence Infrastructure™
+
+This GitHub organization documents the technical architecture supporting my research ecosystem, including:
+
+- Architecture specifications
+- Research Product Maps
+- Technical documentation
+- AI workflows
+- Templates
+- Governance standards
+- Version history
+
+---
+
+# Professional & Research Presence
+
+### Research Identity
+
+- ORCID
+- Zenodo
+- Open Science Framework (OSF)
+- Wikidata
+- WorldCat
+
+### Technical Infrastructure
+
+- GitHub
+
+### Knowledge & Publications
+
+- Funded Abroad India
+- Medium
+- Leanpub
+- Gumroad
+
+### Academic & Professional Networks
+
+- LinkedIn
+- Academia.edu
+- SlideShare
+- Internet Archive
+
+---
+
+# Philosophy
+
+> **I am not creating content. I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™.**
+
+Every publication, dataset, framework, workflow, repository, and technical asset should strengthen the integrity, usefulness, and continuity of the broader knowledge infrastructure.
+
+---
+
+# Current Development Priorities (2026–2027)
 
 Current priorities include:
 
 - Scholarship Intelligence Infrastructure™
 - Global Scholarship Intelligence Database
 - Opportunity Intelligence Framework
-- Funding Command Centre
-- AI-assisted Scholarship Workflows
+- AI-assisted research workflows
 - Research Product Maps
-- Knowledge Architecture
-- Research Infrastructure
-
----
-
-# Research Philosophy
-
-> I am not creating content.
-
-> I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™.
-
-Every publication, dataset, framework, repository, workflow, and technical asset should strengthen everything that already exists.
+- Knowledge architecture
+- Open research infrastructure
+- Technical documentation standards
 
 ---
 
 # Connect
 
-### Public Knowledge
+**Public Knowledge Hub**
 
 https://fundedabroadindia.blogspot.com/
 
-### ORCID
-
-https://orcid.org/0009-0007-3325-9966
-
-### GitHub
+**GitHub**
 
 https://github.com/NabalKishorePande
 
-### LinkedIn
+**ORCID**
+
+https://orcid.org/0009-0007-3325-9966
+
+**LinkedIn**
 
 https://www.linkedin.com/in/nabal-kishore-pande-05400b372/
-
-### Medium
-
-https://medium.com/@fundedabroadindia
-
-### X
-
-https://x.com/NabalKPande
-
-### Bluesky
-
-https://bsky.app/profile/nabalkishorepande.bsky.social
 
 ---
 
