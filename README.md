@@ -1,4 +1,4 @@
-# Er. Nabal Kishore Pande
+# Nabal Kishore Pande
 
 > **Independent Researcher • Author • Decision Systems • Knowledge Infrastructure**
 
