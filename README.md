@@ -1,26 +1,28 @@
 # Nabal Kishore Pande
 
-> **Independent Researcher • Author • Decision Systems • Knowledge Infrastructure**
+> **Independent Researcher & Author • Decision Systems • Research Frameworks • Execution Intelligence • Scholarship Preparation Intelligence**
 
-I am an independent researcher and author working across decision systems, execution intelligence, research frameworks, higher education, scholarship preparation intelligence, and human-AI collaboration.
+I am an independent researcher and author working across decision systems, research frameworks, execution intelligence, higher education, scholarship preparation intelligence, and human-AI collaboration.
 
-My work focuses on building practical, evidence-based frameworks, research assets, books, datasets, and knowledge infrastructure that help researchers, professionals, and students make better decisions under uncertainty, complexity, and information overload.
+My work focuses on turning evidence into practical frameworks, research assets, books, datasets, and knowledge infrastructure that support better decisions under uncertainty, complexity, and information overload.
 
----
-
-## 🌐 Research & Publishing Hub
-
-My central public hub brings together my research infrastructure, books, bibliographic records, publishing work, global distribution, scholarship preparation systems, and audience channels.
-
-### **[Visit the Research & Publishing Hub →](https://nabalkishorepande.github.io/)**
-
-The hub provides a structured view of my work across research, publishing, books, distribution, scholarship preparation, and professional projects.
+A major part of my current research focuses on **scholarship preparation intelligence**: understanding how applicants evaluate opportunities, interpret selection systems, prepare evidence, overcome procedural barriers, and make better funding decisions for international higher education.
 
 ---
 
-## 🧭 Research Identity & Open Science
+## Research & Publishing Hub
 
-I follow an open and version-controlled research workflow using persistent scholarly identifiers and public research infrastructure.
+My public research hub provides the broader view of my research, books, frameworks, scholarship preparation systems, publishing work, and research infrastructure.
+
+**[Visit the Research & Publishing Hub →](https://nabalkishorepande.github.io/)**
+
+The GitHub profile provides a concise entry point. The Research & Publishing Hub contains the wider research and publishing record.
+
+---
+
+## Research Identity & Open Science
+
+I use persistent identifiers and open research infrastructure to maintain a traceable and reusable research record.
 
 - **ORCID:** `0009-0007-3325-9966`
 - **Wikidata:** `Q137731110`
@@ -28,44 +30,133 @@ I follow an open and version-controlled research workflow using persistent schol
 - **Research infrastructure:** GitHub, Zenodo, OSF
 - **Bibliographic discovery:** WorldCat
 
+My research workflow generally follows:
+
+**Question → Evidence → Interpretation → Framework → Output → Persistent Record**
+
+The objective is not simply to publish more information. It is to create knowledge assets that can be reused, examined, extended, and connected across research projects.
+
 ---
 
-## 🔬 Core Research Areas
+## Core Research Areas
 
-| Decision Systems | Execution Intelligence | Systems Thinking |
+| Decision Systems | Execution Intelligence | Higher Education |
 | :--- | :--- | :--- |
-| **Research Frameworks** | **Higher Education** | **Research Production** |
-| **Scholarship Preparation Intelligence** | **Knowledge Infrastructure** | **Human-AI Collaboration** |
+| Decision frameworks | Execution systems | Scholarship preparation |
+| Structured reasoning | Decision-load reduction | Scholarship funding |
+| Decision defence | Task structuring | Higher education access |
+| Evidence-based decisions | Execution reliability | International education |
+
+| Research Frameworks | Knowledge Infrastructure | Human-AI Collaboration |
+| :--- | :--- | :--- |
+| Research methodology | Datasets | AI-supported research |
+| Evidence synthesis | Open research | AI-assisted learning |
+| Systems thinking | Versioned research assets | Human-AI workflows |
+| Applied frameworks | Research documentation | Knowledge production |
 
 ---
 
-## 🧠 Key Research Projects & Frameworks
+# Scholarship Preparation Intelligence
 
-My research has led to the development of original decision systems, research frameworks, and practical knowledge infrastructure.
+**Scholarship Preparation Intelligence** is one of my principal research and publishing areas.
+
+The work examines international scholarship preparation as a **decision and preparation problem**, rather than simply a scholarship-search problem.
+
+The research focuses on questions such as:
+
+- What makes an applicant genuinely prepared?
+- How do scholarship selection systems actually operate?
+- Which opportunities deserve an applicant's limited preparation time?
+- What evidence must already exist before application?
+- Which procedural barriers prevent eligible applicants from accessing funding?
+- How do financial, digital, language, documentation, and eligibility constraints affect access?
+- How should applicants evaluate opportunity fit before investing in an application?
+- How can preparation become a repeatable operating system rather than a collection of disconnected tasks?
+
+The work is particularly concerned with applicants from developing and emerging regions seeking international higher education funding.
+
+The underlying principle is:
+
+> **Selection Before Application. Strategy Before Scholarship.**
+
+The objective is not to promise scholarship success.
+
+The objective is to provide **evidence, preparation systems, decision guidance, and reusable tools** that help applicants make better decisions and avoid preventable preparation failures.
+
+### Scholarship research areas
+
+- Scholarship funding systems
+- Higher education funding
+- Scholarship selection logic
+- Procedural access
+- Applicant barriers
+- Educational opportunity selection
+- International scholarship systems
+- Regional scholarship intelligence
+- Scholarship preparation systems
+- Funding accessibility
+- Evidence-based preparation
+- Decision-making under information overload
+
+### Funded Abroad India
+
+**Funded Abroad India** is the scholarship preparation intelligence initiative within this research area.
+
+It develops research-backed resources, preparation frameworks, decision systems, and practical tools for applicants pursuing international scholarships.
+
+**[Visit Funded Abroad India →](https://fundedabroadindia.blogspot.com/)**
+
+**[Explore Funded Abroad India Resources →](https://fundedabroadindia.gumroad.com/)**
+
+---
+
+# Key Research Projects & Frameworks
+
+My research has produced original frameworks, models, datasets, and applied research systems.
 
 ### Opportunity Intelligence Framework™
 
-A five-step decision model designed to help students evaluate educational opportunities without becoming overwhelmed by excessive choice.
+A five-filter decision model for evaluating educational opportunities under conditions of information overload.
 
-*Hosted on Zenodo.*
+The framework helps applicants distinguish between available opportunities and opportunities that actually deserve preparation time.
+
+*Research record hosted on Zenodo.*
+
+### Procedural Access Framework (PAF)
+
+A conceptual framework explaining how procedural barriers affect access to higher education funding.
+
+The framework distinguishes **funding availability** from **funding accessibility** and examines the procedural conditions that determine whether eligible applicants can successfully obtain financial support.
+
+*Research record hosted on Zenodo and OSF.*
 
 ### Execution Compression System (ECS)
 
-A constraint-based framework designed to reduce decision load and improve execution reliability in governance systems.
+A constraint-based framework designed to reduce decision load, compress task size, and improve execution reliability.
 
-*Hosted on Zenodo.*
+The framework treats execution failure as a system-design problem rather than simply a motivation problem.
+
+*Research record hosted on Zenodo.*
+
+### Execution Grid Model (EGM)
+
+A supporting model within the ECS research that examines the relationship between task size, decision load, and time pressure in execution.
+
+### Scholarship Preparation Intelligence
+
+A research and operating framework for converting scholarship information into preparation decisions, evidence requirements, opportunity filters, and execution systems.
 
 ### NeuroGenesis Framework
 
-An open research project exploring how human thinking and AI can work together to support learning and mental productivity.
+An open research project exploring how human thinking and AI can work together to support learning, reasoning, and cognitive productivity.
 
-*Hosted on OSF.*
+*Research project hosted on OSF.*
 
 ### AI-Driven Workforce Reorganization (2026–2031)
 
-A working paper examining institutional projections concerning automation, job displacement, and skills volatility.
+A working paper examining institutional projections related to automation, job displacement, skills volatility, and workforce restructuring.
 
-*Hosted on OSF.*
+*Research project hosted on OSF.*
 
 ### Other Frameworks
 
@@ -79,138 +170,215 @@ A working paper examining institutional projections concerning automation, job d
 
 ---
 
-## 📚 Selected Publications & Books
+# Selected Research Outputs
 
-My publishing work includes ISBN-registered books, research-oriented publications, applied frameworks, and practical decision systems.
+My research outputs cover scholarship funding, educational access, decision systems, execution, labour-market change, and institutional systems.
 
-### DIY Home Improvement: Transform Your Space on a Budget
+### Scholarship Funding Systems, Educational Access, and Applicant Barriers in Developing Economies: A PRISMA-ScR Scoping Review
 
-**Scribl, 2024**
+A structured scoping review examining scholarship funding systems, educational access, and applicant barriers across developing economies.
 
-A practical guide offering step-by-step projects and cost-saving approaches to home improvement.
+**DOI:** `10.5281/zenodo.21800965`
 
-- **ISBN:** `9781633486157`
-- **OCLC:** `1482654705`
-- **WorldCat:** [Bibliographic Record](https://search.worldcat.org/title/1482654705)
-- **Library holdings:** University of Marburg Library, Germany; University of Arts in Belgrade, Faculty of Music, Serbia.
+### Scholarship Funding in Africa: A Regional Evidence Review
 
-### The Academic Word Engine
+A regional evidence review examining scholarship funding systems, educational finance, research infrastructure, and applicant barriers across African countries.
 
-**A+ TEST SUCCESS, 2025**
+**DOI:** `10.5281/zenodo.21732358`
 
-A structured learning system covering EF SET, CEFR, IELTS, PTE, DET and TOEFL for academic and global career mobility.
+### The Procedural Access Framework (PAF): Explaining Hidden Barriers to Higher Education Funding Access
 
-- **ISBN:** `9789334380378`
-- **OCLC:** `1563979749`
-- **WorldCat:** [Bibliographic Record](https://search.worldcat.org/title/1563979749)
+A conceptual framework examining the procedural dimensions that influence access to higher education funding.
 
-### Structured C1 AI Systems
+**OSF:** `10.17605/OSF.IO/BWGYS`
 
-A practical framework combining advanced English development, reasoning, and AI-supported learning systems.
+**Zenodo:** `10.5281/zenodo.21836783`
 
-[View on Amazon](https://www.amazon.in/Structured-C1-AI-Systems-Reasoning-ebook/dp/B0GKPL8DQJ/)
+### Scholarship Intelligence Report
 
-### Cognitive Test Readiness Framework
+**A Comparative Policy Analysis of Selection Logic, Funding Architecture and Regional Coverage Across Ten Major International Scholarship Programmes**
 
-A structured preparation framework for cognitive assessment and test-readiness development.
+A comparative analysis of major international scholarship programmes, examining selection logic, funding architecture, development priorities, diplomatic dimensions, and regional coverage.
 
-[View on Amazon](https://www.amazon.in/Cognitive-Test-Readiness-Framework-Training-ebook/dp/B0G6K2DYNG/)
+**DOI:** `10.5281/zenodo.21551747`
 
-### Scholarship Intelligence Library 2026
+### Execution Compression System (ECS)
 
-A practical scholarship preparation resource developed through Funded Abroad India.
+**A Constraint-Based Framework for Reducing Decision Load and Improving Execution in Governance Systems**
 
-[Explore on Gumroad](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library?wanted=true)
+A framework examining how decision load, task size, and time constraints affect execution reliability.
 
-### The Selection Blueprint 2027
+**DOI:** `10.5281/zenodo.19555606`
 
-A decision-focused scholarship preparation resource built around selection strategy and preparation alignment.
+### Execution Systems Under Cognitive Load
 
-[Explore on Gumroad](https://fundedabroadindia.gumroad.com/l/the-selection-blueprint-2027?wanted=true)
+**A Data-Driven Model for Converting Knowledge into Consistent Output**
 
-### Scholarship Intelligence Compass
+A research output examining the conditions under which knowledge and capability are converted into repeatable execution.
 
-A practical resource for navigating fully funded Master's scholarship preparation.
+**DOI:** `10.5281/zenodo.19274301`
 
-[Explore on Gumroad](https://fundedabroadindia.gumroad.com/l/funded-masters-compass-2027?wanted=true)
+### The Evidence Gap
+
+**Why Capability Often Fails to Become Opportunity in Modern Labor Markets**
+
+A working paper examining the gap between capability, opportunity access, and labour-market outcomes.
+
+**DOI:** `10.5281/zenodo.20588520`
+
+### Opportunity Intelligence
+
+**A Five-Filter Framework for Educational Opportunity Selection Under Conditions of Information Overload**
+
+A decision framework for evaluating educational opportunities through structured filters rather than uncontrolled opportunity searching.
+
+**DOI:** `10.5281/zenodo.20794623`
 
 ---
 
-## 📖 Professional Monographs & Articles
+# Books & Publishing
+
+My publishing work includes practical books, learning systems, research-oriented publications, and decision frameworks.
+
+## DIY Home Improvement: Transform Your Space on a Budget
+
+**Scribl, 2024**
+
+A practical guide covering home improvement projects, cost-conscious planning, and step-by-step approaches.
+
+- **ISBN:** `9781633486157`
+- **OCLC:** `1482654705`
+- **[WorldCat bibliographic record](https://search.worldcat.org/title/1482654705)**
+
+Library holdings include the University of Marburg Library, Germany, and the University of Arts in Belgrade, Faculty of Music, Serbia.
+
+## The Academic Word Engine
+
+**A+ TEST SUCCESS, 2025**
+
+A structured learning system covering EF SET, CEFR, IELTS, PTE, DET, and TOEFL for academic and global career mobility.
+
+- **ISBN:** `9789334380378`
+- **OCLC:** `1563979749`
+- **[WorldCat bibliographic record](https://search.worldcat.org/title/1563979749)**
+
+## Structured C1 AI Systems
+
+A practical framework combining advanced English development, reasoning, and AI-supported learning systems.
+
+**[View on Amazon →](https://www.amazon.in/Structured-C1-AI-Systems-Reasoning-ebook/dp/B0GKPL8DQJ/)**
+
+## Cognitive Test Readiness Framework
+
+A structured preparation framework for cognitive assessment and test-readiness development.
+
+**[View on Amazon →](https://www.amazon.in/Cognitive-Test-Readiness-Framework-Training-ebook/dp/B0G6K2DYNG/)**
+
+## Scholarship Intelligence Library 2026
+
+A practical scholarship preparation resource developed through Funded Abroad India.
+
+**[Explore on Gumroad →](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library?wanted=true)**
+
+## The Selection Blueprint 2027
+
+A decision-focused scholarship preparation resource built around selection strategy and preparation alignment.
+
+**[Explore on Gumroad →](https://fundedabroadindia.gumroad.com/l/the-selection-blueprint-2027?wanted=true)**
+
+## Scholarship Intelligence Compass
+
+A practical resource for fully funded Master's scholarship preparation.
+
+**[Explore on Gumroad →](https://fundedabroadindia.gumroad.com/l/funded-masters-compass-2027?wanted=true)**
+
+---
+
+# Professional Monographs & Applied Systems
 
 ### The ASA System
 
-An operating system for professional portability that helps professionals record achievements and maintain control over their career value when changing roles or organisations.
+An operating system for professional portability that helps professionals document achievements and maintain control over their career value when changing roles or organisations.
 
-[View on Leanpub](https://leanpub.com/u/nabalkishorepande)
+**[View on Leanpub →](https://leanpub.com/u/nabalkishorepande)**
 
 ### The Executive Decision Defense Playbook™
 
 A practical framework for senior leaders to make, track, explain, and defend complex decisions using structured reasoning and AI accountability.
 
-[View on Leanpub](https://leanpub.com/executive-decision-defense-playbook-2026)
+**[View on Leanpub →](https://leanpub.com/executive-decision-defense-playbook-2026)**
 
 ### Research Production System™
 
 A structured system for turning research activity into repeatable production, documentation, and publishing workflows.
 
-[View on Leanpub](https://leanpub.com/researchproductionsystem)
+**[View on Leanpub →](https://leanpub.com/researchproductionsystem)**
 
 ### The Scholarship Search Trap
 
-An article examining why applicants can spend significant effort searching for scholarships while still solving the wrong preparation problem.
+An article examining why applicants can spend substantial effort searching for scholarships while still solving the wrong preparation problem.
 
-[Read on Medium](https://fundedabroadindia.medium.com/)
-
----
-
-## 🎓 Funded Abroad India
-
-**Funded Abroad India** is my scholarship preparation intelligence initiative.
-
-It focuses on evidence-based preparation, decision guidance, practical systems, and execution for applicants pursuing international scholarships.
-
-The central principle is simple:
-
-> **Selection Before Application. Strategy Before Scholarship.**
-
-The project develops scholarship preparation frameworks, research-backed resources, decision systems, and practical tools rather than relying on scholarship lists or motivational promises.
-
-### [Visit Funded Abroad India →](https://fundedabroadindia.blogspot.com/)
-
-### [Explore Funded Abroad India Resources →](https://fundedabroadindia.gumroad.com/)
+**[Read on Medium →](https://fundedabroadindia.medium.com/)**
 
 ---
 
-## 🔬 FRYX Research
+# Research Infrastructure
 
-**FRYX Research** is the research infrastructure layer of my work.
+My research uses several platforms for different functions rather than treating every platform as an identical profile.
 
-It supports systems, datasets, documentation, version-controlled research assets, and future open research projects.
-
-### [Visit the Research Infrastructure →](https://nabalkishorepande.github.io/)
+| Infrastructure | Primary function |
+| :--- | :--- |
+| **GitHub** | Research infrastructure, code, datasets, documentation, version control |
+| **GitHub Pages** | Public research and publishing hub |
+| **Zenodo** | Persistent research records, datasets, reports, and DOI registration |
+| **OSF** | Open research projects, frameworks, and collaboration |
+| **ORCID** | Persistent researcher identity and scholarly record |
+| **Wikidata** | Structured knowledge-graph identity |
+| **WorldCat** | Bibliographic discovery and library records |
+| **ScienceOpen** | Scholarly discovery and researcher profile |
+| **Academia.edu** | Research profile and publication discovery |
 
 ---
 
-## 🌍 Research, Publishing & Distribution
+# FRYX Research
 
-My work is distributed through academic, bibliographic, publishing, commercial, library, and digital platforms.
+**FRYX Research** is the research infrastructure layer supporting structured research production.
 
-### Research & Academic
+It is intended to support:
+
+- Research documentation
+- Datasets
+- Version-controlled research assets
+- Framework development
+- Evidence organisation
+- Open research
+- Knowledge infrastructure
+- Future research projects
+
+The broader public research hub is available through:
+
+**[Nabal Kishore Pande Research & Publishing Hub →](https://nabalkishorepande.github.io/)**
+
+---
+
+# Research, Publishing & Distribution
+
+## Research & Academic
 
 - [ORCID](https://orcid.org/0009-0007-3325-9966)
 - [Academia.edu](https://independentresearcher.academia.edu/NabalKishorePande)
 - [WorldCat](https://search.worldcat.org/)
+- [ScienceOpen](https://www.scienceopen.com/user/nabal-kishore-pande)
 - [SlideShare](https://www.slideshare.net/nabalpandey/slideshows)
-- [Internet Archive](https://archive.org/details/@nawal_pandey)
+- [Internet Archive](https://archive.org/)
 - [Goodreads](https://www.goodreads.com/user/show/112073904-nabal-kishore-pande)
 
-### Open Research
+## Open Research
 
 - [Zenodo](https://zenodo.org/)
 - [Open Science Framework](https://osf.io/)
 
-### Publishing & Books
+## Publishing & Books
 
 - [Leanpub](https://leanpub.com/u/nabalkishorepande)
 - [Gumroad](https://fundedabroadindia.gumroad.com/)
@@ -219,7 +387,7 @@ My work is distributed through academic, bibliographic, publishing, commercial, 
 - [Notion Press](https://notionpress.com/author/82279)
 - [Selar](https://selar.com/m/nabalkishorepande)
 
-### Author & Professional
+## Author & Professional
 
 - [Amazon Author Profile](https://www.amazon.com/author/nabal)
 - [LinkedIn](https://www.linkedin.com/in/nabal-kishore-pande-05400b372/)
@@ -227,17 +395,52 @@ My work is distributed through academic, bibliographic, publishing, commercial, 
 
 ---
 
-## 📫 Connect & Follow
+# Funded Abroad India
 
-The **Research & Publishing Hub** is the main entry point for my work.
+**Funded Abroad India** is the practical application layer of my scholarship preparation research.
 
-### **[Visit the Research & Publishing Hub →](https://nabalkishorepande.github.io/)**
+It focuses on applicants pursuing international scholarships and fully funded higher education, with particular attention to preparation quality, opportunity selection, evidence, decision-making, and execution.
 
-You can also follow ongoing publishing, research discussion, scholarship intelligence, and audience updates across these channels:
+The project does not treat scholarship preparation as a simple search for available programmes.
+
+It focuses on the preparation system behind the application.
+
+### Core principle
+
+> **Selection Before Application. Strategy Before Scholarship.**
+
+The work develops:
+
+- Scholarship preparation frameworks
+- Funding intelligence
+- Opportunity-selection systems
+- Applicant readiness models
+- Regional scholarship research
+- Evidence-based preparation resources
+- Decision matrices
+- Preparation operating systems
+- Practical execution tools
+
+**[Visit Funded Abroad India →](https://fundedabroadindia.blogspot.com/)**
+
+**[Explore Funded Abroad India Resources →](https://fundedabroadindia.gumroad.com/)**
+
+---
+
+# Connect & Follow
+
+The **Research & Publishing Hub** is the main entry point for the broader body of work.
+
+**[Visit the Research & Publishing Hub →](https://nabalkishorepande.github.io/)**
+
+### Publishing & Discussion
 
 - [Abroad & Ahead — LinkedIn Newsletter](https://www.linkedin.com/newsletters/abroad-ahead-7390199016950603777/)
 - [Medium](https://fundedabroadindia.medium.com/)
 - [Tumblr](https://www.tumblr.com/blog/funded-abroad-india)
+
+### Social & Audience Channels
+
 - [Bluesky](https://bsky.app/profile/nabalkpande.bsky.social)
 - [Facebook](https://www.facebook.com/profile.php?id=61552943706709)
 - [Instagram](https://www.instagram.com/nabal_kishore_pande/)
@@ -247,20 +450,36 @@ You can also follow ongoing publishing, research discussion, scholarship intelli
 
 ---
 
-## 🧱 Research Philosophy
+# Research Philosophy
 
 I do not treat publishing as an end in itself.
 
 The objective is to build reusable knowledge assets that can support better decisions, stronger preparation, and more defensible execution.
 
-My work therefore moves through a continuous cycle:
+My work therefore follows a continuous cycle:
 
 **Research → Evidence → Interpretation → Framework → Publication → Distribution → Feedback → Refinement**
+
+Each stage serves a different purpose.
+
+Research identifies the question.
+
+Evidence establishes what can be supported.
+
+Interpretation turns evidence into understanding.
+
+Frameworks convert understanding into reusable decision structures.
+
+Publication creates a persistent public record.
+
+Distribution makes the work discoverable.
+
+Feedback identifies weaknesses and new questions.
+
+Refinement improves the underlying knowledge asset.
 
 The long-term objective is to build knowledge infrastructure that remains useful beyond any single platform.
 
 ---
 
-> **“I am not creating content. I am increasing the Knowledge Capital of the Scholarship Intelligence Infrastructure™.”**
->
-> *Building knowledge assets that outlive platforms.*
+> **Building knowledge assets that outlive platforms.**
