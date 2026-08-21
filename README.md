@@ -21,4 +21,4 @@ I prefer research that can be examined, reused, and improved. I use repositories
 
 My GitHub repositories contain working research, frameworks, datasets, and supporting materials. They form part of a wider record of my writing and research.
 
-I use this profile to keep the research record connected to the underlying work rather than presenting a separate professional biography.
+The repositories are the primary record of the work described here.
