@@ -1,12 +1,10 @@
-# Nabal Kishore Pande
+## Nabal Kishore Pande
 
-> **Independent Researcher & Author • Decision Systems • Research Frameworks • Execution Intelligence • Scholarship Preparation Intelligence**
+I am an independent author and researcher from India. My work focuses on decision systems, research frameworks, execution intelligence, scholarship preparation, and the organisation of knowledge.
 
-I am an independent researcher and author working across decision systems, research frameworks, execution intelligence, higher education, scholarship preparation intelligence, and human-AI collaboration.
+I use GitHub to develop and publish research materials, frameworks, datasets, and working resources. My repositories cover decision-making, scholarship preparation, artificial intelligence, learning, workforce change, and other research questions.
 
-My work focuses on turning evidence into practical frameworks, research assets, books, datasets, and knowledge infrastructure that support better decisions under uncertainty, complexity, and information overload.
-
-A major part of my current research focuses on **scholarship preparation intelligence**: understanding how applicants evaluate opportunities, interpret selection systems, prepare evidence, overcome procedural barriers, and make better funding decisions for international higher education.
+I prefer research that can be examined, reused, and improved. I use repositories to keep working material organised and to make parts of my research process available as open resources.
 
 ---
 
