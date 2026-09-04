@@ -105,21 +105,27 @@ The **Scholarship Intelligence Library** is being developed as a structured reso
 
 **Professional Movability** is the narrower applied layer concerned with international careers, professional communication, English performance, academic progression, licensing, and related decisions.
 
+### The Academic Word Engine
+
 **The Academic Word Engine** belongs to this applied layer.
 
-**[The Academic Word Engine →](https://amzn.in/d/06SNYh35)**
+It is a structured English-performance system designed around international English proficiency and global career mobility, covering **EF SET, CEFR, IELTS, PTE, DET, OET, and TOEFL**.
+
+**[The Academic Word Engine →](https://www.walmart.com/ip/The-Academic-Word-Engine-EF-SET-CEFR-IELTS-PTE-DET-OET-TOEFL-Mastery-for-Global-Career-Mobility-Paperback-9789334380378/18863158548)**
 
 ---
 
 ## Diagnostic Resource for Professional Movability
 
-**Interview Failure Due to English: A Performance-English Workbook for Global Job Seekers from India, Africa & Southeast Asia**
+### Interview Failure Due to English
+
+**Interview Failure Due to English: A Performance-English Workbook for Global Job Seekers from India, Africa & Southeast Asia: Why technically strong professionals ...**
 
 This resource addresses English-related performance failure in professional interviews through a **diagnostic system** for technically strong professionals and global job seekers.
 
-It is positioned as a **diagnostic and performance-English system, not coaching**.
+It is designed as a **diagnostic and performance-English workbook, not coaching**.
 
-**[View the Amazon edition →](https://amzn.in/d/06SNYh35)**
+The focus is on identifying where English affects interview performance, understanding the underlying failure pattern, and using structured diagnosis to improve performance.
 
 ---
 
@@ -138,7 +144,7 @@ The detailed architecture, research portfolio, publications, systems and current
 
 - **[Leanpub](https://leanpub.com/u/nabalkishorepande)**
 - **[Scholarship Intelligence Library](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library)**
-- **[The Academic Word Engine](https://amzn.in/d/06SNYh35)**
+- **[The Academic Word Engine](https://www.walmart.com/ip/The-Academic-Word-Engine-EF-SET-CEFR-IELTS-PTE-DET-OET-TOEFL-Mastery-for-Global-Career-Mobility-Paperback-9789334380378/18863158548)**
 
 ---
 
