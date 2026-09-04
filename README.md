@@ -1,32 +1,117 @@
 # Nabal Kishore Pande
 
-I am an independent researcher and author from India. My work looks at decision systems, research frameworks, execution intelligence, scholarship preparation, and the organisation of knowledge.
+**Independent Researcher & Author**
 
-I use GitHub to build and share research materials, frameworks, datasets, and working resources. Some repositories contain finished work, while others document ideas, methods, experiments, or materials that are still being developed.
+**Decision Defence · Decision Systems · Research Frameworks · Execution
+Intelligence**
 
-I am particularly interested in how people make decisions when information is incomplete, scattered, or difficult to evaluate. My work explores how better research methods, structured frameworks, and organised evidence can make those decisions clearer and more useful.
+I develop **Decision Defence Architecture** for decisions that require
+evidence, reasoning, execution, and accountability.
 
-Scholarship preparation and international higher education are an important part of this work. I study funding, educational access, opportunity evaluation, applicant decision-making, preparation systems, and related questions across countries and regions.
+My work brings together **decision systems, research frameworks,
+execution intelligence, scholarship intelligence, global movability,
+professional movability, autonomous science, and AI--human
+interaction**.
 
-I prefer research that can be examined, reused, and improved. GitHub gives me a practical place to organise working material and make parts of the research process available as open resources.
+The broader objective is to understand how people and organisations can
+make better decisions when information is incomplete, opportunities
+compete, and execution matters as much as analysis.
 
-## Research Areas
+## Core Work
 
-- Decision systems and decision-making
-- Research methods and frameworks
-- Evidence synthesis and decision support
-- Execution intelligence
-- Scholarship preparation
-- International higher education
-- Knowledge organisation
-- Artificial intelligence and learning
-- Workforce change
-- Open research and evidence-based publishing
+### Decision Defence
+
+**Decision Defence** is the concise name for the broader body of work.
+
+**Decision Defence System** refers to the practical system layer for
+structured decision-making, evidence, execution, and accountability.
+
+**Decision Defence Architecture** refers to the broader conceptual
+architecture connecting these systems and research domains.
+
+### Major Research Domains
+
+-   Decision Systems
+-   Research Frameworks
+-   Execution Intelligence
+-   Scholarship Intelligence
+-   Global Movability
+-   Professional Movability
+-   AI--Human Interaction
+-   Autonomous Science
+-   Research Production
+
+### Applied Systems
+
+-   **The Executive Decision Defense Playbook**
+-   **Research Production System**
+-   **The ASA System**
+-   **The Academic Word Engine**
+
+The work is research-led and system-oriented. It focuses on frameworks,
+evidence, structured reasoning, and practical execution rather than
+motivational content or generic advice.
+
+## Scholarship Intelligence
+
+**Scholarship Intelligence** is an applied research domain focused on
+how applicants discover, evaluate, verify, compare, and act on
+international scholarship opportunities.
+
+**Funded Abroad India** operates as a specialised
+scholarship-intelligence channel within the broader research and
+publishing architecture.
+
+The **Scholarship Intelligence Library** is being developed as a
+structured resource containing institutional research datasets, academic
+frameworks, and reusable application infrastructure.
+
+## Global & Professional Movability
+
+**Global Movability** examines the broader conditions that enable people
+to move across countries, institutions, education systems, and
+professional environments.
+
+**Professional Movability** is the narrower applied layer concerned with
+international careers, professional communication, English performance,
+academic progression, licensing, and related decisions.
+
+**The Academic Word Engine** belongs to this applied layer. It is a
+structured English-learning system designed around academic and
+professional mobility.
 
 ## Research & Publishing
 
-My repositories contain research materials, frameworks, datasets, working papers, experiments, and supporting resources.
+My work is published through a combination of open research, scholarly,
+bibliographic, publishing, and commercial channels.
 
-They form part of a wider body of research and writing published across open research and publishing platforms.
+The detailed research architecture, publications, systems, and current
+resources are maintained on the central website.
 
-The repositories are the primary record of the work contained here.
+### Start Here
+
+**Research & Publishing Hub**\
+https://nabalkishorepande.github.io/
+
+### Professional & Publishing Links
+
+-   [LinkedIn](https://www.linkedin.com/in/nabal-kishore-pande-05400b372/)
+-   [Funded Abroad India](https://fundedabroadindia.blogspot.com/)
+-   [Medium](https://medium.com/@nabalkishorepande)
+-   [Leanpub](https://leanpub.com/u/nabalkishorepande)
+-   [Scholarship Intelligence
+    Library](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library)
+-   [The Academic Word Engine](https://amzn.in/d/06SNYh35)
+
+## Research Identity
+
+**Nabal Kishore Pande**\
+Independent Researcher & Author\
+Pithoragarh, Uttarakhand, India
+
+**ORCID:** `0009-0007-3325-9966`
+
+https://orcid.org/0009-0007-3325-9966
+
+> **Better outcomes come from better systems, not simply more
+> information.**
