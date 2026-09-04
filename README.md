@@ -5,20 +5,26 @@
 
 <table>
 <tr>
-<td align="center"><strong>RESEARCH & PUBLISHING HUB</strong><br>
+<td align="center" width="25%">
+<strong>RESEARCH & PUBLISHING HUB</strong><br>
 <a href="https://nabalkishorepande.github.io/">Homepage</a><br>
-<sub>Full architecture, research and publishing</sub></td>
-<td align="center"><strong>PROFESSIONAL PRESENCE</strong><br>
+<sub>Full architecture, research and publishing</sub>
+</td>
+<td align="center" width="25%">
+<strong>PROFESSIONAL PRESENCE</strong><br>
 <a href="https://www.linkedin.com/in/nabal-kishore-pande-05400b372/">LinkedIn</a><br>
-<sub>Professional profile</sub></td>
-</tr>
-<tr>
-<td align="center"><strong>SCHOLARSHIP INTELLIGENCE</strong><br>
+<sub>Professional profile</sub>
+</td>
+<td align="center" width="25%">
+<strong>SCHOLARSHIP INTELLIGENCE</strong><br>
 <a href="https://fundedabroadindia.blogspot.com/">Blogger · Funded Abroad India</a><br>
-<sub>Specialised scholarship-intelligence channel</sub></td>
-<td align="center"><strong>RESEARCH & WRITING</strong><br>
+<sub>Specialised scholarship-intelligence channel</sub>
+</td>
+<td align="center" width="25%">
+<strong>RESEARCH & WRITING</strong><br>
 <a href="https://medium.com/@nabalkishorepande">Medium</a><br>
-<sub>Research-led articles and writing</sub></td>
+<sub>Research-led articles and writing</sub>
+</td>
 </tr>
 </table>
 
@@ -88,9 +94,8 @@ A structured English-learning system positioned within **Professional Movability
 
 The **Scholarship Intelligence Library** is being developed as a structured resource containing institutional research datasets, academic frameworks, and reusable application infrastructure.
 
-<a href="https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library"><strong>Scholarship Intelligence Library →</strong></a>
-
-<sub>Developing resource · Directional, not presented as a completed library</sub>
+**[Scholarship Intelligence Library →](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library)**  
+*Developing resource · Directional, not presented as a completed library*
 
 ---
 
@@ -102,7 +107,7 @@ The **Scholarship Intelligence Library** is being developed as a structured reso
 
 **The Academic Word Engine** belongs to this applied layer.
 
-<a href="https://amzn.in/d/06SNYh35"><strong>The Academic Word Engine →</strong></a>
+**[The Academic Word Engine →](https://amzn.in/d/06SNYh35)**
 
 ---
 
@@ -114,7 +119,7 @@ This resource addresses English-related performance failure in professional inte
 
 It is positioned as a **diagnostic and performance-English system, not coaching**.
 
-<a href="https://amzn.in/d/06SNYh35"><strong>View the Amazon edition →</strong></a>
+**[View the Amazon edition →](https://amzn.in/d/06SNYh35)**
 
 ---
 
@@ -124,16 +129,16 @@ The detailed architecture, research portfolio, publications, systems and current
 
 ### Primary Navigation
 
-- **Homepage:** https://nabalkishorepande.github.io/
-- **LinkedIn:** https://www.linkedin.com/in/nabal-kishore-pande-05400b372/
-- **Blogger · Funded Abroad India:** https://fundedabroadindia.blogspot.com/
-- **Medium:** https://medium.com/@nabalkishorepande
+- **[Research & Publishing Hub](https://nabalkishorepande.github.io/)**
+- **[LinkedIn](https://www.linkedin.com/in/nabal-kishore-pande-05400b372/)**
+- **[Blogger · Funded Abroad India](https://fundedabroadindia.blogspot.com/)**
+- **[Medium](https://medium.com/@nabalkishorepande)**
 
 ### Selected Publishing & Resource Links
 
-- **Leanpub:** https://leanpub.com/u/nabalkishorepande
-- **Scholarship Intelligence Library:** https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library
-- **The Academic Word Engine:** https://amzn.in/d/06SNYh35
+- **[Leanpub](https://leanpub.com/u/nabalkishorepande)**
+- **[Scholarship Intelligence Library](https://fundedabroadindia.gumroad.com/l/scholarship-intelligence-library)**
+- **[The Academic Word Engine](https://amzn.in/d/06SNYh35)**
 
 ---
 
@@ -145,7 +150,7 @@ Pithoragarh, Uttarakhand, India
 
 **ORCID:** `0009-0007-3325-9966`
 
-https://orcid.org/0009-0007-3325-9966
+**[ORCID Record](https://orcid.org/0009-0007-3325-9966)**
 
 ---
 
