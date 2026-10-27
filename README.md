@@ -24,9 +24,7 @@ The website brings together books, practical products, decision frameworks, rese
 
 ## Selected Project Repositories
 
-- [Autonomous Science Research](https://github.com/NabalKishorePande/autonomous-science-research)
 - [Scholarship Intelligence Infrastructure](https://github.com/NabalKishorePande/scholarship-intelligence-infrastructure)
-- [Scholarship Intelligence — Funded Abroad India](https://github.com/NabalKishorePande/scholarship-intelligence-funded-abroad-india)
 - [AI-Accelerated Learning Systems](https://github.com/NabalKishorePande/ai-accelerated-learning)
 - [AI Agents Mastery — Companion Repository](https://github.com/NabalKishorePande/ai-agents-mastery)
 - [Research Portfolio](https://github.com/NabalKishorePande/nabal-kishore-pande-research-portfolio)
